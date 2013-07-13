@@ -1,0 +1,19 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1373689789000 737 e5b441505da8c815e692d702415f6f191c2a2cf1 /Users/reneval/AndroidStudioProjects/SinsaCatalogProject/SinsaCatalog/build/classes/debug/com/znergia/sinsacatalog/R.class
+1373689789000 444 96fddaab3543ea12f0050b35ce42833ccd0caf44 /Users/reneval/AndroidStudioProjects/SinsaCatalogProject/SinsaCatalog/build/classes/debug/com/znergia/sinsacatalog/R$id.class
+1373689789000 406 4ef18a25224dc7acb675efc81d345f2983ea8ffa /Users/reneval/AndroidStudioProjects/SinsaCatalogProject/SinsaCatalog/build/classes/debug/com/znergia/sinsacatalog/R$menu.class
+1373699804000 1228 f0ada794dcbe9f4b6dac467305fbf9596fa1fdf3 /Users/reneval/AndroidStudioProjects/SinsaCatalogProject/SinsaCatalog/build/classes/debug/com/znergia/sinsacatalog/MainActivity$1.class
+1373689789000 490 96f5f5d8ba91bc4b3e71832e386a24da7117a115 /Users/reneval/AndroidStudioProjects/SinsaCatalogProject/SinsaCatalog/build/classes/debug/com/znergia/sinsacatalog/R$string.class
+1373699804000 331 a6ed14b699578ade22d0bd2f39fd3445898d0238 /Users/reneval/AndroidStudioProjects/SinsaCatalogProject/SinsaCatalog/build/classes/debug/com/znergia/sinsacatalog/RetrieveWebPage$OnResponseListener.class
+1373689789000 449 dca5b97bcc6f383be593ba644a47dd35282e4d83 /Users/reneval/AndroidStudioProjects/SinsaCatalogProject/SinsaCatalog/build/classes/debug/com/znergia/sinsacatalog/R$style.class
+1373683592000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1373699804000 2490 6a7a54d5eebe9d6eaede30c48e953913a136363a /Users/reneval/AndroidStudioProjects/SinsaCatalogProject/SinsaCatalog/build/classes/debug/com/znergia/sinsacatalog/RetrieveWebPage.class
+1373689789000 479 33e32b5de97f7be98b941179774b1b46f7f45750 /Users/reneval/AndroidStudioProjects/SinsaCatalogProject/SinsaCatalog/build/classes/debug/com/znergia/sinsacatalog/R$dimen.class
+1373689789000 357 eca26197adaf6e46fc1398a536800ee5dc322461 /Users/reneval/AndroidStudioProjects/SinsaCatalogProject/SinsaCatalog/build/classes/debug/com/znergia/sinsacatalog/BuildConfig.class
+1373700039000 1515 663cafa11895a81916ec680ec68b31d72c45cc7b /Users/reneval/AndroidStudioProjects/SinsaCatalogProject/SinsaCatalog/build/classes/debug/com/znergia/sinsacatalog/MainActivity.class
+1373689789000 358 cde7b2615e3cc92fbc4db7af2fc02133c72b0f85 /Users/reneval/AndroidStudioProjects/SinsaCatalogProject/SinsaCatalog/build/classes/debug/com/znergia/sinsacatalog/R$attr.class
+1373679706000 293672 872693211fd68d1c4e116cf90021603207725e19 /Users/reneval/AndroidStudioProjects/SinsaCatalogProject/SinsaCatalog/libs/jsoup-1.7.2.jar
+1373689789000 425 8ab042efcba0207722f67fbb15fbecfdb4adcb6f /Users/reneval/AndroidStudioProjects/SinsaCatalogProject/SinsaCatalog/build/classes/debug/com/znergia/sinsacatalog/R$drawable.class
+1373689789000 421 e556ac50f54b385e5df75461c32ecb4a5d98b549 /Users/reneval/AndroidStudioProjects/SinsaCatalogProject/SinsaCatalog/build/classes/debug/com/znergia/sinsacatalog/R$layout.class
